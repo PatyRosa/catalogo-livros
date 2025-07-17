@@ -29,3 +29,13 @@ button {
   padding: 10px;
   margin-bottom: 10px;
 }
+.btn-excluir {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
